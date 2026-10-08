@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 560" fill="none">
+  <!-- ===== Doodles ===== -->
+  <g stroke="#2fd3e6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <!-- music notes -->
+    <path d="M262 92 v-34 l18 -5 v30"/><ellipse cx="256" cy="94" rx="7" ry="5" fill="#2fd3e6"/><ellipse cx="274" cy="85" rx="7" ry="5" fill="#2fd3e6"/>
+    <path d="M310 70 v-30 q10 4 14 14"/><ellipse cx="304" cy="72" rx="7" ry="5" fill="#2fd3e6"/>
+    <path d="M540 300 v-30 l16 -4 v28"/><ellipse cx="534" cy="302" rx="6" ry="4.5" fill="#2fd3e6"/><ellipse cx="550" cy="296" rx="6" ry="4.5" fill="#2fd3e6"/>
+    <path d="M520 360 v-26 q9 4 12 12"/><ellipse cx="514" cy="362" rx="6" ry="4.5" fill="#2fd3e6"/>
+    <!-- scribbled oval -->
+    <ellipse cx="520" cy="112" rx="30" ry="11" transform="rotate(-12 520 112)"/>
+    <path d="M496 116 l10 -9 M504 118 l12 -11 M514 117 l12 -11 M524 115 l12 -10 M534 112 l8 -7"/>
+    <!-- lightbulb -->
+    <path d="M548 150 c-14 0 -22 12 -18 24 c2 6 7 9 8 16 h20 c1 -7 6 -10 8 -16 c4 -12 -4 -24 -18 -24 z"/>
+    <path d="M540 196 h16 M542 202 h12 M548 142 v-10 M528 150 l-7 -7 M568 150 l7 -7 M522 168 h-9 M574 168 h9"/>
+    <!-- smile face -->
+    <circle cx="352" cy="150" r="13"/><path d="M346 153 q6 6 12 0"/><circle cx="347" cy="146" r="1.4" fill="#2fd3e6"/><circle cx="357" cy="146" r="1.4" fill="#2fd3e6"/>
+    <!-- sun / gear -->
+    <circle cx="560" cy="248" r="9"/><path d="M560 232 v-6 M560 270 v-6 M544 248 h-6 M582 248 h-6 M549 237 l-4 -4 M575 263 l-4 -4 M571 237 l4 -4 M545 263 l4 -4"/>
+    <!-- sparkles -->
+    <path d="M300 200 v12 M294 206 h12"/><path d="M590 200 v10 M585 205 h10"/><path d="M470 250 v10 M465 255 h10"/>
+    <path d="M380 360 l10 -12 l4 8 l10 -14"/>
+    <!-- swirl -->
+    <path d="M410 305 c14 -10 30 0 22 12 c-6 8 -18 2 -12 -6"/>
+  </g>
+  <g fill="#2fd3e6" font-family="'Segoe Print','Bradley Hand','Comic Sans MS',cursive">
+    <text x="245" y="160" font-size="26" transform="rotate(-28 245 160)" opacity=".9">design</text>
+    <text x="400" y="62" font-size="28" transform="rotate(-6 400 62)">html</text>
+    <text x="370" y="120" font-size="24" transform="rotate(-24 370 120)">AWS</text>
+    <text x="455" y="190" font-size="20" transform="rotate(-8 455 190)">UI/UX</text>
+    <text x="500" y="222" font-size="34" transform="rotate(12 500 222)">Python</text>
+    <text x="330" y="245" font-size="18" transform="rotate(-14 330 245)">&lt;/div&gt;</text>
+    <text x="545" y="330" font-size="22" transform="rotate(-10 545 330)">css</text>
+    <text x="560" y="400" font-size="40" transform="rotate(6 560 400)">JS</text>
+  </g>
+
+  <!-- ===== Person ===== -->
+  <ellipse cx="360" cy="505" rx="230" ry="14" fill="#101318" opacity=".55"/>
+  <g stroke="#14171c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <!-- extended leg -->
+    <path d="M450 440 C400 425 300 430 240 445 C215 452 205 470 215 485 C250 494 380 496 460 494 Z" fill="#1fc4da"/>
+    <path d="M260 462 C320 452 380 450 420 456" stroke="#118ea0" stroke-width="2"/>
+    <!-- shoe extended leg -->
+    <path d="M222 450 C196 448 180 470 186 490 C200 497 226 495 236 490 C234 476 232 460 222 450 Z" fill="#f4f6f9"/>
+    <!-- torso -->
+    <path d="M430 250 C482 238 526 270 532 332 C537 392 527 452 507 494 L420 494 C404 440 396 360 410 300 C415 276 420 258 430 250 Z" fill="#f4f6f9"/>
+    <path d="M492 300 C505 350 505 410 492 460" stroke="#c9ced6" stroke-width="2"/>
+    <!-- bent leg -->
+    <path d="M478 494 C446 430 386 372 337 352 C310 343 288 360 291 386 C295 420 300 455 302 480 L342 484 C341 452 339 424 346 405 C386 432 420 470 448 494 Z" fill="#22cde3"/>
+    <path d="M356 378 C390 398 420 430 440 460 M318 392 C320 420 322 450 324 472" stroke="#118ea0" stroke-width="2"/>
+    <!-- shoe bent leg -->
+    <path d="M296 472 C286 488 292 502 318 502 L352 502 C358 492 350 482 340 478 Z" fill="#f4f6f9"/>
+    <!-- laptop -->
+    <path d="M298 248 L356 260 L372 352 L318 346 Z" fill="#e8ecf1"/>
+    <circle cx="334" cy="298" r="6" fill="#cfd5dd" stroke-width="2"/>
+    <path d="M318 346 L372 352 L426 349 L372 341 Z" fill="#bcc3cc"/>
+    <!-- arm -->
+    <path d="M462 268 C434 284 404 304 388 320 C381 330 390 344 402 339 C424 326 452 312 474 300 Z" fill="#f4f6f9"/>
+    <circle cx="383" cy="330" r="9" fill="#f7e1d5"/>
+    <!-- neck -->
+    <path d="M428 230 L446 230 L448 254 L428 256 Z" fill="#f7e1d5"/>
+    <!-- head -->
+    <ellipse cx="436" cy="206" rx="26" ry="32" fill="#f7e1d5"/>
+    <path d="M411 205 l-7 8 l8 2" fill="#f7e1d5" stroke-width="2.5"/>
+    <circle cx="456" cy="212" r="7" fill="#f7e1d5" stroke-width="2.5"/>
+    <!-- hair -->
+    <path d="M408 196 C402 164 430 146 458 156 C480 164 484 192 468 220 C464 208 458 200 450 200 C442 186 426 180 408 196 Z" fill="#22cde3"/>
+  </g>
+</svg>

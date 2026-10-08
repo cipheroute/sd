@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SaulDesign</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #2a2e35;
+      --bg-deep: #22262c;
+      --cyan: #22d3e6;
+      --cyan-2: #0fb6cc;
+      --text: #ffffff;
+      --muted: #4a4f57;
+      --line: #3a3f47;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; }
+    body {
+      font-family: 'Poppins', system-ui, sans-serif;
+      color: var(--text);
+      background: var(--bg);
+      overflow-x: hidden;
+    }
+    .page {
+      position: relative;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      background:
+        radial-gradient(circle at 68% 34%, rgba(255,255,255,.97) 0, rgba(235,240,245,.6) 7%, rgba(160,170,180,.22) 20%, rgba(42,46,53,0) 40%),
+        linear-gradient(180deg, var(--bg) 0%, var(--bg-deep) 100%);
+    }
+
+    /* ---------- Header ---------- */
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      max-width: 1240px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 28px 48px 22px;
+    }
+    .logo {
+      display: flex;
+      align-items: flex-end;
+      gap: 2px;
+      font-weight: 700;
+      font-size: 20px;
+      letter-spacing: -.3px;
+      color: #fff;
+      text-decoration: none;
+    }
+    nav { display: flex; gap: 40px; }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 16px;
+      transition: color .2s;
+    }
+    nav a:hover { color: var(--cyan); }
+    .divider { height: 1px; background: var(--line); opacity: .6; }
+
+    /* ---------- Hero ---------- */
+    .hero {
+      position: relative;
+      flex: 1;
+      display: grid;
+      grid-template-columns: 1fr 1.05fr;
+      align-items: center;
+      max-width: 1240px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 40px 48px 120px;
+    }
+    .hero-text { position: relative; padding-left: 40px; z-index: 2; }
+    .arrow-doodle {
+      position: absolute;
+      left: -70px;
+      top: 0;
+      width: 70px;
+    }
+    h1 {
+      font-weight: 800;
+      font-size: clamp(40px, 5.6vw, 76px);
+      line-height: 1.08;
+      letter-spacing: -1px;
+    }
+    h1 .accent {
+      display: block;
+      background: linear-gradient(180deg, #3fe4f2 0%, var(--cyan) 50%, var(--cyan-2) 100%);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+    .actions { display: flex; gap: 22px; margin-top: 40px; flex-wrap: wrap; }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 30px;
+      border-radius: 999px;
+      font-family: inherit;
+      font-weight: 600;
+      font-size: 15px;
+      color: #fff;
+      text-decoration: none;
+      border: 0;
+      cursor: pointer;
+      transition: transform .2s, box-shadow .2s, background .2s;
+    }
+    .btn:hover { transform: translateY(-2px); }
+    .btn-primary { background: var(--cyan); box-shadow: 0 8px 24px rgba(34,211,230,.25); }
+    .btn-secondary { background: var(--muted); }
+    .btn-secondary:hover { background: #575c65; }
+    .btn svg { width: 16px; height: 16px; }
+
+    .hero-art { position: relative; z-index: 1; }
+    .hero-art img { width: 100%; display: block; }
+
+
+    .scroll-down {
+      position: absolute;
+      left: 26%;
+      bottom: 40px;
+      width: 46px;
+      height: 46px;
+      display: grid;
+      place-items: center;
+      background: #3a3f47;
+      color: #fff;
+      z-index: 3;
+    }
+    .scroll-down svg { width: 20px; height: 20px; }
+    .bottom-line { height: 2px; background: #6b7078; opacity: .5; }
+
+    @media (max-width: 860px) {
+      header { padding: 20px 16px; }
+      nav { gap: 18px; }
+      nav a { font-size: 14px; }
+      .hero { grid-template-columns: 1fr; padding: 32px 16px 110px; gap: 24px; }
+      .hero-text { padding-left: 0; text-align: left; }
+      .arrow-doodle { display: none; }
+      .page {
+        background:
+          radial-gradient(circle at 60% 62%, rgba(255,255,255,.9) 0, rgba(200,210,220,.3) 12%, rgba(42,46,53,0) 38%),
+          linear-gradient(180deg, var(--bg) 0%, var(--bg-deep) 100%);
+      }
+      .scroll-down { left: 16px; }
+    }
+    @media (max-width: 420px) {
+      .logo { font-size: 17px; }
+      nav { gap: 12px; }
+      nav a { font-size: 13px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header>
+      <a class="logo" href="#">SaulDesign</a>
+      <nav>
+        <a href="#">Home</a>
+        <a href="#about">About Me</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </header>
+    <div class="divider"></div>
+
+    <main class="hero">
+      <div class="hero-text">
+        <img class="arrow-doodle" src="assets/arrow-doodle.svg" alt="">
+        <h1>CREATIVE UI <span class="accent">DESIGNER</span></h1>
+        <div class="actions">
+          <a class="btn btn-primary" href="#contact">Hire me</a>
+          <a class="btn btn-secondary" href="#" download>
+            Download CV
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v11M7 10l5 5 5-5M5 20h14"/></svg>
+          </a>
+        </div>
+      </div>
+
+      <div class="hero-art">
+        <img src="assets/hero-illustration.svg" alt="Designer working on a laptop">
+      </div>
+
+
+      <a class="scroll-down" href="#about" aria-label="Scroll down">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 4v16M6 14l6 6 6-6"/></svg>
+      </a>
+    </main>
+    <div class="bottom-line"></div>
+  </div>
+</body>
+</html>
