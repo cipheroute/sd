@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 580" fill="none">
+  <!-- ===== Doodles ===== -->
+  <g stroke="#1fb6c9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".85">
+    <rect x="22" y="20" width="44" height="30" rx="4"/><path d="M12 56 h64 v6 q0 4 -4 4 h-56 q-4 0 -4 -4 z" fill="#1fb6c9" fill-opacity=".35"/><circle cx="44" cy="35" r="5"/>
+    <path d="M132 38 h58 q-3 24 -29 24 q-26 0 -29 -24 z"/><path d="M142 33 q18 -9 38 0 M172 34 l18 -18"/>
+    <path d="M254 26 l-11 11 l11 11 M270 26 l11 11 l-11 11 M266 22 l-8 30"/>
+    <circle cx="350" cy="38" r="9"/><circle cx="374" cy="38" r="9"/><path d="M359 38 h6"/>
+    <path d="M490 30 c-12 0 -18 10 -15 20 c2 6 6 8 7 14 h16 c1 -6 5 -8 7 -14 c3 -10 -3 -20 -15 -20 z M484 70 h12 M490 20 v-7 M470 32 l-5 -5 M510 32 l5 -5"/>
+    <g transform="rotate(-28 590 50)"><rect x="552" y="34" width="78" height="32" rx="5"/><path d="M562 44 h58 M562 51 h58 M562 58 h58 M576 39 v24 M592 39 v24 M608 39 v24"/></g>
+
+    <rect x="14" y="118" width="40" height="27" rx="2"/><path d="M14 120 l20 14 l20 -14"/>
+    <path d="M124 118 c-12 0 -18 10 -15 20 c2 6 6 8 7 14 h16 c1 -6 5 -8 7 -14 c3 -10 -3 -20 -15 -20 z M118 158 h12 M124 108 v-7"/>
+    <circle cx="208" cy="134" r="14"/><path d="M208 126 v9 l6 4 M197 118 l-5 -5 M219 118 l5 -5"/>
+    <path d="M300 150 v-28 l16 -5 v26"/><ellipse cx="295" cy="151" rx="6" ry="4"/><ellipse cx="311" cy="144" rx="6" ry="4"/>
+    <path d="M430 104 v20 M420 114 h20 M423 107 l14 14 M437 107 l-14 14"/>
+    <path d="M478 134 h58 q-3 24 -29 24 q-26 0 -29 -24 z"/><path d="M488 129 q18 -9 38 0 M518 130 l18 -18"/>
+    <rect x="576" y="120" width="44" height="30" rx="4"/><path d="M566 156 h64 v6 q0 4 -4 4 h-56 q-4 0 -4 -4 z" fill="#1fb6c9" fill-opacity=".35"/>
+
+    <g transform="rotate(-30 50 210)"><rect x="12" y="194" width="78" height="32" rx="5"/><path d="M22 204 h58 M22 211 h58 M22 218 h58 M36 199 v24 M52 199 v24 M68 199 v24"/></g>
+    <path d="M132 232 v-28 l16 -5 v26"/><ellipse cx="127" cy="233" rx="6" ry="4"/><ellipse cx="143" cy="226" rx="6" ry="4"/>
+    <path d="M300 214 h58 q-3 24 -29 24 q-26 0 -29 -24 z"/><path d="M310 209 q18 -9 38 0"/>
+    <path d="M430 196 l-11 11 l11 11 M446 196 l11 11 l-11 11"/>
+    <circle cx="598" cy="232" r="9"/><circle cx="622" cy="232" r="9"/><path d="M607 232 h6"/>
+    <path d="M520 256 q8 -12 16 0 t16 0"/>
+
+    <rect x="18" y="280" width="44" height="30" rx="4"/><path d="M8 316 h64 v6 q0 4 -4 4 h-56 q-4 0 -4 -4 z" fill="#1fb6c9" fill-opacity=".35"/>
+    <circle cx="110" cy="300" r="9"/><circle cx="134" cy="300" r="9"/><path d="M119 300 h6"/>
+    <rect x="310" y="286" width="40" height="27" rx="2"/><path d="M310 288 l20 14 l20 -14"/>
+    <circle cx="428" cy="312" r="9"/><circle cx="452" cy="312" r="9"/><path d="M437 312 h6"/>
+    <rect x="486" y="306" width="50" height="22" rx="4"/><path d="M494 313 h34 M494 320 h34"/>
+    <path d="M610 330 q-9 0 -9 9 v8 q0 6 -6 6 q6 0 6 6 v8 q0 9 9 9 M632 330 q9 0 9 9 v8 q0 6 6 6 q-6 0 -6 6 v8 q0 9 -9 9"/>
+
+    <rect x="34" y="352" width="50" height="22" rx="4"/><path d="M42 359 h34 M42 366 h34"/>
+    <rect x="52" y="432" width="40" height="27" rx="2"/><path d="M52 434 l20 14 l20 -14"/>
+    <path d="M136 470 v-28 q10 4 14 14"/><ellipse cx="131" cy="471" rx="6" ry="4"/>
+    <path d="M500 410 l-11 11 l11 11 M516 410 l11 11 l-11 11"/>
+    <path d="M520 458 h58 q-3 24 -29 24 q-26 0 -29 -24 z"/><path d="M530 453 q18 -9 38 0 M560 454 l18 -18"/>
+    <path d="M614 468 v-22 q8 3 11 11"/><ellipse cx="610" cy="469" rx="5" ry="3.5"/>
+  </g>
+  <g fill="#1fb6c9" font-family="'Segoe Print','Bradley Hand','Comic Sans MS',cursive" opacity=".85">
+    <text x="262" y="112" font-size="20" transform="rotate(-18 262 112)">deadlines</text>
+    <text x="560" y="300" font-size="20" transform="rotate(-14 560 300)">deadlines</text>
+  </g>
+
+  <!-- zzz -->
+  <g fill="#f4f6f9" font-family="Arial, sans-serif" font-weight="700">
+    <text x="206" y="232" font-size="15">z</text><text x="226" y="224" font-size="17">z</text><text x="228" y="262" font-size="19">Z</text>
+  </g>
+
+  <!-- ===== Person at desk ===== -->
+  <ellipse cx="330" cy="560" rx="170" ry="11" fill="#101318" opacity=".6"/>
+  <g stroke="#14171c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <!-- chair back -->
+    <rect x="150" y="300" width="34" height="112" rx="17" transform="rotate(-22 167 356)" fill="#1fc4da"/>
+    <!-- chair leg -->
+    <path d="M206 462 h16 v84 h18 v12 h-58 v-12 h24 z" fill="#1fc4da"/>
+    <!-- desk -->
+    <rect x="352" y="394" width="170" height="30" rx="15" fill="#1fc4da"/>
+    <path d="M428 424 h14 v134 h-14 z" fill="#1fc4da"/>
+    <!-- laptop -->
+    <rect x="398" y="380" width="80" height="14" fill="#f4f6f9"/>
+    <path d="M466 380 l20 -76 l12 3 l-18 73 z" fill="#1fc4da"/>
+    <!-- torso -->
+    <path d="M200 336 C232 322 276 330 298 362 C314 386 316 404 306 420 L226 428 C204 404 194 368 200 336 Z" fill="#f4f6f9"/>
+    <!-- arms folded -->
+    <path d="M272 372 C292 366 312 366 322 374 C330 382 324 394 312 394 L276 398 Z" fill="#f4f6f9"/>
+    <circle cx="322" cy="378" r="9" fill="#f7e1d5"/>
+    <!-- head -->
+    <ellipse cx="204" cy="300" rx="22" ry="27" transform="rotate(-24 204 300)" fill="#f7e1d5"/>
+    <path d="M182 290 C172 262 200 250 222 262 C214 268 206 274 204 284 C196 280 188 282 182 290 Z" fill="#22cde3"/>
+    <!-- seat -->
+    <rect x="198" y="424" width="112" height="46" rx="20" fill="#1fc4da"/>
+    <!-- legs -->
+    <path d="M298 404 C340 400 372 420 372 452 C372 480 340 500 300 512 L262 540 L246 516 L300 470 C290 462 280 450 276 436 Z" fill="#22cde3"/>
+    <path d="M246 516 l-12 16 l28 16 l10 -10 z" fill="#f4f6f9"/>
+    <path d="M300 520 l-8 18 l30 8 l6 -12 z" fill="#f4f6f9"/>
+  </g>
+</svg>

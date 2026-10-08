@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="220" viewBox="0 0 260 220" fill="none" stroke="#1fb6c9" stroke-opacity=".28" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+  <!-- laptop -->
+  <rect x="18" y="14" width="34" height="24" rx="3"/><path d="M10 44 h50 v5 q0 3 -3 3 h-44 q-3 0 -3 -3 z"/><circle cx="35" cy="26" r="4"/>
+  <!-- bowl -->
+  <path d="M92 26 h46 q-2 20 -23 20 q-21 0 -23 -20 z"/><path d="M100 22 q14 -8 30 0 M124 24 l14 -14"/>
+  <!-- code -->
+  <path d="M176 18 l-9 9 l9 9 M190 18 l9 9 l-9 9 M186 14 l-6 26"/>
+  <!-- glasses -->
+  <circle cx="226" cy="30" r="7"/><circle cx="244" cy="30" r="7"/><path d="M233 30 h4"/>
+  <!-- mail -->
+  <rect x="14" y="84" width="34" height="23" rx="2"/><path d="M14 86 l17 12 l17 -12"/>
+  <!-- bulb -->
+  <path d="M84 80 c-10 0 -15 8 -12 16 c2 5 5 6 6 11 h12 c1 -5 4 -6 6 -11 c3 -8 -2 -16 -12 -16 z M79 112 h10 M84 72 v-5 M68 82 l-4 -4 M100 82 l4 -4"/>
+  <!-- clock -->
+  <circle cx="140" cy="96" r="12"/><path d="M140 89 v8 l5 3 M131 82 l-4 -4 M149 82 l4 -4"/>
+  <!-- note -->
+  <path d="M186 106 v-24 l14 -4 v22"/><ellipse cx="182" cy="107" rx="5" ry="3.5"/><ellipse cx="196" cy="101" rx="5" ry="3.5"/>
+  <!-- star -->
+  <path d="M232 84 v18 M223 93 h18 M226 87 l12 12 M238 87 l-12 12"/>
+  <!-- keyboard -->
+  <g transform="rotate(-24 50 170)"><rect x="18" y="156" width="64" height="26" rx="4"/><path d="M26 164 h48 M26 170 h48 M26 176 h48 M36 160 v20 M48 160 v20 M60 160 v20"/></g>
+  <!-- squiggle -->
+  <path d="M112 160 q6 -10 12 0 t12 0 t12 0"/>
+  <!-- braces -->
+  <path d="M176 150 q-7 0 -7 7 v6 q0 5 -5 5 q5 0 5 5 v6 q0 7 7 7 M192 150 q7 0 7 7 v6 q0 5 5 5 q-5 0 -5 5 v6 q0 7 -7 7"/>
+  <!-- triangle + drop -->
+  <path d="M228 160 l14 6 l-12 10 z"/><path d="M122 196 q-5 8 0 11 q5 -3 0 -11 z"/>
+</svg>

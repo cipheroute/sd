@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 460" fill="none">
+  <!-- swirl arrow -->
+  <g stroke="#1fb6c9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".45">
+    <path d="M18 96 C34 70 66 76 58 100 C52 118 30 108 44 92 C62 74 92 96 80 120 C72 136 56 128 68 114 C88 94 122 124 150 176"/>
+    <path d="M118 184 L152 178 L156 142"/>
+  </g>
+
+  <ellipse cx="282" cy="438" rx="96" ry="11" fill="#101318" opacity=".6"/>
+  <g stroke="#14171c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <!-- steps -->
+    <rect x="204" y="372" width="42" height="62" rx="4" fill="#f4f6f9"/>
+    <rect x="318" y="346" width="42" height="88" rx="4" fill="#1fc4da"/>
+    <rect x="406" y="140" width="42" height="294" rx="4" fill="#1fc4da"/>
+
+    <!-- back leg -->
+    <path d="M268 250 C250 290 236 326 222 352 L208 346 L204 362 L232 372 C262 340 290 304 304 268 Z" fill="#22cde3"/>
+    <path d="M208 346 l-8 12 l26 14 l8 -10 z" fill="#f4f6f9"/>
+    <!-- front leg -->
+    <path d="M270 250 C300 262 330 290 340 320 L338 340 L320 342 C312 318 296 300 270 290 Z" fill="#22cde3"/>
+    <path d="M318 330 l-2 14 l32 2 l2 -12 z" fill="#f4f6f9"/>
+    <!-- torso -->
+    <path d="M262 150 C292 140 318 160 320 196 C322 222 316 244 306 262 L262 262 C254 230 252 180 262 150 Z" fill="#f4f6f9"/>
+    <!-- arm -->
+    <path d="M300 176 C322 172 344 162 358 150 C366 146 372 156 366 162 C350 178 326 192 304 198 Z" fill="#f4f6f9"/>
+    <circle cx="366" cy="154" r="9" fill="#f7e1d5"/>
+    <!-- head -->
+    <ellipse cx="290" cy="114" rx="19" ry="24" fill="#f7e1d5"/>
+    <path d="M272 108 C266 84 288 72 308 82 C314 88 314 98 308 106 C300 96 286 96 272 108 Z" fill="#22cde3"/>
+  </g>
+</svg>
